@@ -18,6 +18,8 @@ GitHub's setup guide: https://docs.github.com/en/pages/getting-started-with-gith
 
 Future pushes to main rebuild and deploy automatically. No paid hosting account, application API key or database is required by this application. GitHub account and Pages availability remain subject to GitHub's account policies.
 
+The build job needs `pages: read` to let `configure-pages` fetch site metadata, in addition to `contents: read`. The deployment job separately has `pages: write` and `id-token: write`. The workflow uses Node 24 based action versions and Ubuntu 24.04 runners; the application build continues to use Node 22. Pages must first be enabled through repository settings. The workflow does not request a personal access token to enable it automatically.
+
 ## How this works
 
 The standard local commands remain available. Only a build with `GITHUB_PAGES=true` enables static export and trailing directory slashes. The workflow reads the repository prefix from `actions/configure-pages` and supplies `PAGES_BASE_PATH`. The local fallback prefix is `/AssessmentFuture`, including its case. Next.js Link components apply this prefix automatically. Exported output is `out/`.
