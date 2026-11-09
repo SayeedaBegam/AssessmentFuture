@@ -1,0 +1,92 @@
+[
+  {
+    "id": "individual-coding-assignments",
+    "slug": "individual-coding-assignments",
+    "name": "Individual coding assignments"
+  },
+  {
+    "id": "collaborative-coding-assignments",
+    "slug": "collaborative-coding-assignments",
+    "name": "Collaborative coding assignments"
+  },
+  {
+    "id": "individual-research-projects",
+    "slug": "individual-research-projects",
+    "name": "Individual research projects"
+  },
+  {
+    "id": "group-research-projects",
+    "slug": "group-research-projects",
+    "name": "Group research projects"
+  },
+  {
+    "id": "literature-reviews",
+    "slug": "literature-reviews",
+    "name": "Literature reviews"
+  },
+  {
+    "id": "take-home-problem-solving",
+    "slug": "take-home-problem-solving",
+    "name": "Take home problem solving"
+  },
+  {
+    "id": "in-class-written-problem-solving",
+    "slug": "in-class-written-problem-solving",
+    "name": "In class written problem solving"
+  },
+  {
+    "id": "quizzes-and-knowledge-checks",
+    "slug": "quizzes-and-knowledge-checks",
+    "name": "Quizzes & knowledge checks"
+  },
+  {
+    "id": "peer-review",
+    "slug": "peer-review",
+    "name": "Peer review"
+  },
+  {
+    "id": "topic-presentations",
+    "slug": "topic-presentations",
+    "name": "Topic presentations"
+  },
+  {
+    "id": "research-paper-presentations",
+    "slug": "research-paper-presentations",
+    "name": "Research paper presentations"
+  },
+  {
+    "id": "paper-critiques-and-summaries",
+    "slug": "paper-critiques-and-summaries",
+    "name": "Paper critiques & summaries"
+  },
+  {
+    "id": "public-facing-science-communication",
+    "slug": "public-facing-science-communication",
+    "name": "Public facing science communication"
+  },
+  {
+    "id": "hackathons",
+    "slug": "hackathons",
+    "name": "Hackathons"
+  },
+  {
+    "id": "oral-examinations",
+    "slug": "oral-examinations",
+    "name": "Oral examinations"
+  },
+  {
+    "id": "problem-solving-competitions",
+    "slug": "problem-solving-competitions",
+    "name": "Problem solving competitions"
+  },
+  {
+    "id": "practical-projects",
+    "slug": "practical-projects",
+    "name": "Practical projects"
+  },
+  {
+    "id": "portfolios-and-staged-assessment",
+    "slug": "portfolios-and-staged-assessment",
+    "name": "Portfolios & staged assessment"
+  }
+]

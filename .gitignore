@@ -1,0 +1,13 @@
+node_modules/
+.next/
+.next-pages/
+out/
+.tools/
+.env*
+!.env.example
+*.tsbuildinfo
+test-results/
+playwright-report/
+exports/
+docs/SUPERVISOR_PRESENTATION_GUIDE.md
+docs/ANDREA_BRIEFING_REVIEW.md
